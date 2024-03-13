@@ -17,20 +17,20 @@ To get started with quizzy-quizzy, follow these simple steps:
 
 2. **Install Dependencies:** Navigate to the project directory and install the necessary dependencies using:
 
-3. **Run the Application:** Start the QuizMaster application by running the following command:
+3. **Run the Application:** Start the quizzy-quizzy application by running the following command:
 
 4. **Access the Application:** Once the application is running, access it through your preferred web browser using the provided URL.
 
 ## Contributing:
 
-Contributions to QuizMaster are always welcome! If you have ideas for improvements, new features, or bug fixes, please feel free to:
+Contributions to quizzy-quizzy are always welcome! If you have ideas for improvements, new features, or bug fixes, please feel free to:
 
 - Submit a pull request with your changes.
 - Open an issue to discuss potential enhancements or report any bugs.
 
 ## License:
 
-QuizMaster is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+quizzy-quizzy is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Support:
 
