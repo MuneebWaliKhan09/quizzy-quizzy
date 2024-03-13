@@ -4,7 +4,7 @@ Welcome to quizzy-quizzy, your go-to Python web application for effortlessly cre
 
 ## Features:
 
-- **CSV Upload:** Upload CSV files with predefined columns for [ Question, Options, and Correctanswer ] to populate your quizzes instantly.
+- **CSV Upload:** Upload CSV files with predefined columns for [ Question, Options, and CorrectAnswer ] to populate your quizzes instantly.
 - **Flexible Quizzes:** Customize your quizzes with any number of questions and options, allowing for versatile and tailored assessments.
 - **Intuitive Interface:** Enjoy a user-friendly interface that simplifies navigation and usage for both administrators and quiz-takers.
 - **Responsive Design:** Access quizzy-quizzy seamlessly across devices with its responsive design, ensuring a consistent user experience.
